@@ -6,5 +6,5 @@ int main(){
 	int y;
 	double f;
 	triple g;
-	cout << "Hello World";
+	cout << "Hello World hasil ubahan";
 }
